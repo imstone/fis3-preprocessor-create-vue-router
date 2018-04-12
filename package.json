@@ -1,0 +1,27 @@
+{
+  "name": "fis3-preprocessor-create-vue-router",
+  "version": "1.0.0",
+  "description": "根据文件自动生成对应的vue-router,路由路径是文件名",
+  "author": "stone-tan <trxx@163.com> (https://github.com/imstone)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imstone/fis3-preprocessor-create-vue-router.git"
+  },
+  "main": "index.js",
+  "files": [
+    "vue-route",
+    "vue"
+  ],
+  "scripts": {},
+  "keywords": [
+    "file",
+    "vue-route",
+    "vue"
+  ],
+  "bugs": {
+    "url": "https://github.com/imstone/fis3-preprocessor-create-vue-router/issues"
+  },
+  "homepage": "https://github.com/imstone/fis3-preprocessor-create-vue-router#readme",
+  "devDependencies": {}
+}
